@@ -26,7 +26,7 @@ SOURCE_URLS = [
     "https://app.sublink.works/x/ZrVEXNV",
     "https://gcore.jsdelivr.net/gh/aews/jd/v20610.txt",
     "https://freev2ray.top/V2rayN061456NO.txt",
-    "https://mm.mibei77.com/202606/06.0764bacrt.txt",
+    "https://shadowmere.xyz/api/b64sub/",
     "https://mm.mibei77.com/202606/06.0864bacrt.txt",
     "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt",
     "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha-All-Type.txt",
